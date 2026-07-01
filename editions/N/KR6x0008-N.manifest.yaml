@@ -1,0 +1,126 @@
+canonical_identifier: bkk:krp/KR6x0008/N/v1
+canonical_location: https://kanripo.org/bkk/KR6x0008/N/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 小誦經
+  identifiers:
+    krp: KR6x0008
+    cbeta: N26n0008
+    cbeta_old_id: N26n0008
+    authorityid: CA0008272
+    json_key: N0008
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/N/N26/N26n0008.xml
+    old_id: N26n0008
+  edition:
+    short: 'N'
+assets:
+  parts:
+  - {seq: 1, filename: KR6x0008_001-N.yaml, hash: 'sha256:dbdf9c355d5e898065eb9f96178081bab358b3ac2e09001e18398e02784835e6'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6x0008_001-N.markers.yaml, hash: 'sha256:c789a9f88d118f7db2ad2241ecfef2160f4b5c98478f7cd3e23cf7f11295f2b2'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6x0008_N_001-juan-start
+    span:
+    - body
+    - 0
+    - 2503
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0008_N_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 一　三歸文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0008_N_001-mulu-2
+    span:
+    - body
+    - 65
+    - 65
+  label: 二　十戒文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0008_N_001-mulu-3
+    span:
+    - body
+    - 187
+    - 187
+  label: 三　三十二身分
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0008_N_001-mulu-4
+    span:
+    - body
+    - 258
+    - 258
+  label: 四　問沙彌文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0008_N_001-mulu-5
+    span:
+    - body
+    - 346
+    - 346
+  label: 五　吉祥經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0008_N_001-mulu-6
+    span:
+    - body
+    - 669
+    - 669
+  label: 六　三寶經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0008_N_001-mulu-7
+    span:
+    - body
+    - 1407
+    - 1407
+  label: 七　戶外經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0008_N_001-mulu-8
+    span:
+    - body
+    - 1788
+    - 1788
+  label: 八　伏藏經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0008_N_001-mulu-9
+    span:
+    - body
+    - 2234
+    - 2234
+  label: 九　慈悲經
+  type: mulu
+  level: 1
+hash: sha256:3194c0d43b646b65446eab242dce8082ef6b75e267e3ba4f5633b5aa73c04fd8
