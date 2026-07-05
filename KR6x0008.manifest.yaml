@@ -13,9 +13,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR6x0008_001.yaml, hash: 'sha256:d31e12aeefc6e72e003cb948d89b08ddfc70384f07ffc3bcba22aa97fe41e9e6'}
+  - {seq: 1, filename: KR6x0008_001.yaml, hash: 'sha256:dbdf9c355d5e898065eb9f96178081bab358b3ac2e09001e18398e02784835e6'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6x0008_001.markers.yaml, hash: 'sha256:97b2660792e02c8ffbea6dbb40ae965f8d89ab484883a62ed1d28ced6656eacc'}
+  - {seq: 1, role: markers, filename: assets/KR6x0008_001.markers.yaml, hash: 'sha256:ce69fadbf7a2676ed49b3c6f9c12ee156fb6f6168412bfb72d9a32ede7485498'}
 table_of_contents:
 - ref:
     seq: 1
@@ -117,9 +117,6 @@ table_of_contents:
   label: 九　慈悲經
   type: mulu
   level: 1
-hash: sha256:fa63e8e22a97ce08957f53548e0ece1ef74cfccd66daa4a593616184e3b3cb5b
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:2872be9cd55982ad5c69800439714fb277d26834c00e49084972cfc58807f5e6
 editions:
 - short: 'N'
